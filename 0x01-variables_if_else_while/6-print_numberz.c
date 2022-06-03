@@ -1,22 +1,23 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - print the reverse lowercase of alphabet
+ * main - print single digit numbers
  *
- * Description: print the letters of the alphabet in reverse
+ * Desciption: prints all single digit numbers of base 10.
  *
  * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	int i = 122;
+	int i = 48;
 
-	while (i >= 97)
+	while (i < 58)
 	{
 		putchar(i);
-		i--;
+		i++;
 	}
+
 	putchar('\n');
 
 	return (0);
