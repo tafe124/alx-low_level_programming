@@ -4,8 +4,7 @@
  * print_times_table - prints the n times table
  *
  * @n: integer for which the times table will be printed
- *
- * Description: prints the n times table
+
  *
  * Return: void
  */
