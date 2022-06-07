@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * print_sign - a function that prints the sign of a number
@@ -8,7 +8,7 @@ include "main.h"
  * Description: a function that prints the sign of a number
  *
  *
- * Return: 0 or 1 .
+ * Return: 1 or 0 .
  */
 
 int print_sign(int n)
