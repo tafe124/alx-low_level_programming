@@ -4,8 +4,6 @@
 * main - putcher is a function in the C programming language.
 *
 *
-* Description: prototype of patcher is int putcher(int character)
-*
 * Return: Always 0 (Success)
 */
 
