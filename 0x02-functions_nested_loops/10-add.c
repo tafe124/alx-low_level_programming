@@ -1,8 +1,8 @@
-include "main.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
- * add - adds two integers and returns the result
+ * add - add two integers and returns the result
  * @i: print int i
  * @k: print int k
  *
