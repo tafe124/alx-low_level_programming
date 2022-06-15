@@ -20,4 +20,4 @@ void _puts(char *str)
 		++len;
 	}
 	_putchar(10);
-i}
+}
