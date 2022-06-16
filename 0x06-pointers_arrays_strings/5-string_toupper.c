@@ -18,6 +18,4 @@ char *string_toupper(char *s)
 	}
 	return (s);
 }
-© 2022 GitHub, Inc.
-Terms
-Privac
+
