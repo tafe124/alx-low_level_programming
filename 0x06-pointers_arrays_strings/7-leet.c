@@ -5,6 +5,7 @@
  * Return: output
  */
 
+
 char *leet(char *s)
 {
 	char alphaArr[] = "a4A4e3E3o0O0t7T7l1L1";
