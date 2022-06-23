@@ -1,12 +1,10 @@
 #include "main.h"
 /**
-
  * _sqrt_recur - helper function
  * @n: num
  * @x: num
  * Return: output
  */
-
 int _sqrt_recur(int n, int x)
 {
 	if (x * x == n)
