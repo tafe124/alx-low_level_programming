@@ -1,1 +1,4 @@
-VimCrypt~03!×QA–XÙ>([_<]Ï	DÛÍ`§˜êÃ˜¥ÑdLÊàŒŠ!Õ¬!Bqìu;ÖÝ$&M~ß@K¥ÀÀß¹šçanÔ'â'³›ÈúÌ¡—/Î iÏþÐ–®í-
+#ifndef _MAIN_H_
+#define _MAIN_H_
+
+#endif
