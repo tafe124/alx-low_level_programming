@@ -1,6 +1,1 @@
-#ifndef MAIN_H
-#define MAIN_H
-
-int main (int argc, char *argv[]);
-
-#endif
+VimCrypt~03!×QA–XÙ>([_<]Ï	DÛÍ`§˜êÃ˜¥ÑdLÊàŒŠ!Õ¬!Bqìu;ÖÝ$&M~ß@K¥ÀÀß¹šçanÔ'â'³›ÈúÌ¡—/Î iÏþÐ–®í-
