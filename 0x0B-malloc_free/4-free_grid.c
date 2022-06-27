@@ -17,7 +17,4 @@ void free_grid(int **grid, int height)
 		free(grid);
 	}
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
+
