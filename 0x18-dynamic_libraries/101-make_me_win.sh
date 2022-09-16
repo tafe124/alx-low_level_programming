@@ -1,4 +1,4 @@
 #!/bin/bash
-wget -q -O /tmp/winwin.so https://github.com/tafe124/alx-low_level_programming/raw/master/0x18-dynamic_libraries/winwin.so
-export LD_PRELOAD=/tmp/winwin.so
+wget -P /tmp https://github.com/baccrie/alx-low_level_programming/raw/master/0x18-dynamic_libraries/libmask.so
+export LD_PRELOAD=/tmp/libmask.so
 
